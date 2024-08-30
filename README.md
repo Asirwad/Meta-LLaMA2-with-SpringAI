@@ -4,6 +4,4 @@
 
 <p align="center"><img src="https://socialify.git.ci/Asirwad/Meta-LLaMA2-with-SpringAI/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Meta-LLaMA2-with-SpringAI" width="400" height="150"/></p>
 
-<p align="center"><img src=" https://img.shields.io/badge/SpringAI-8A2BE2" alt="shields"><img src=" https://img.shields.io/badge/Ollama-8A2BE2" alt="shields"></p>
-
 <h2 id="description">A SpringBoot App Leveraging SpringAI Ollama and Llama3</h2>
