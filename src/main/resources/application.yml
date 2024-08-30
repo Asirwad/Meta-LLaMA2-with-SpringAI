@@ -5,7 +5,15 @@ spring:
     ollama:
       base-url: http://localhost:11434/
       chat:
-        model: llama3.1
+        options:
+          model: llama3.1
+      embedding:
+        enabled: true
+        options:
+          model: llama3.1
 
 server:
   port: 8100
+
+file:
+  path: classpath:data/info.txt
