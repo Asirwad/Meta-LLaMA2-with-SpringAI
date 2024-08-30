@@ -17,3 +17,7 @@ server:
 
 file:
   path: classpath:data/info.txt
+
+logging:
+  pattern:
+    console: "%m%n"
